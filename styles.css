@@ -1,0 +1,21 @@
+h1 {
+    width: 100%;
+    text-align: center;
+}
+
+.wrapper {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    width: 100%; 
+}
+
+.image-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    font-family: 'Charmonman', cursive;
+}
